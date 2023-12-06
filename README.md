@@ -2,9 +2,8 @@
 
 TIPos is a tip calculator application for iOS.
 
-Submitted by: Amanuel Tesfamichael
+Submitted by: Bereket Tesfamichael
 
-Time spent: 4 hours spent in total
 
 ## User Stories
 
@@ -38,7 +37,7 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright [2020] [Amanuel]
+    Copyright [2023] [Bereket]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
